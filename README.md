@@ -1,4 +1,3 @@
-# XenonStackTechincalTask_cdac
 Details about Project:
 1.Project Name:-Basic employee Regestration,Login form. 
  FrontEND:- Html,Thymleaf,Bootstrap used.
